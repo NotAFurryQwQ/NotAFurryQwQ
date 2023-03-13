@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @NotAFurryQwQ
-- 👀 I’m interested in ... you <3
-- 🌱 I’m currently learning ... stuff
-- 💞️ I’m looking to collaborate on ... no
-- 📫 How to reach me ... spookysbusinesstime@gmail.com
+yo, i'm @NotAFurryQwQ
+https://spookyaboutme.carrd.co/
+quick bio ^^^
 
-<!---
-NotAFurryQwQ/NotAFurryQwQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+//
+
+learning: Python, Java, C++, x86 assembly.
+
+contact me at: spookysbusinesstime@gmail.com
