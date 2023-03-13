@@ -1,6 +1,6 @@
-yo, i'm @NotAFurryQwQ
-https://spookyaboutme.carrd.co/
-quick bio ^^^
+yo, i'm @NotAFurryQwQ  
+https://spookyaboutme.carrd.co/  
+quick bio ^^^  
 
 //
 
